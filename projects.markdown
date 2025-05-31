@@ -17,7 +17,7 @@ Here are various personal projects I've been working on; the source code can be 
 
 <a href="https://github.com/juha-t/send-location-to-whatsapp"><img src="https://gh-card.dev/repos/juha-t/send-location-to-whatsapp.svg"></a>
 <br>
-* Script allows sending location coordinates of a point feature layer from ArcGIS Pro to WhatsApp via Facebook API. The recipient receives a location pin that can be viewed with Google Maps
+* This script sends the location coordinates of a point feature layer from ArcGIS Pro to WhatsApp using the Facebook API. The recipient receives a location pin that opens in Google Maps
 <br>
 <br>
 
@@ -51,4 +51,3 @@ Here are various personal projects I've been working on; the source code can be 
 <a href="https://github.com/juha-t/coordinates-to-point-feature"><img src="https://gh-card.dev/repos/juha-t/coordinates-to-point-feature.svg"></a>
 * This tool allows one to quickly convert copied coordinates (from any supported format) into point feature layers
 * The output point feature layer is stored in memory and added to the active map
-
