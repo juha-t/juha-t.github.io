@@ -27,7 +27,7 @@ Here are various personal projects I've been working on; the source code can be 
 
 <a href="https://github.com/juha-t/convert-2d-polyline-to-3d-polyline"><img src="https://gh-card.dev/repos/juha-t/convert-2d-polyline-to-3d-polyline.svg"></a>
 <br>
-* Converts a 2d polyline to a 3d polyline based on values on a surface raster requiring only basic licence
+* Converts a 2d polyline to a 3d polyline based on values on a surface raster (requiring only basic licence)
 * Input polyline feature must have only one record
 <br>
 <br>
