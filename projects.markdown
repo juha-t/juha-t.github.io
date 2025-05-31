@@ -17,7 +17,7 @@ Here are various personal projects I've been working on; the source code can be 
 
 <a href="https://github.com/juha-t/send-location-to-whatsapp"><img src="https://gh-card.dev/repos/juha-t/send-location-to-whatsapp.svg"></a>
 <br>
-* This script sends the location coordinates of a point feature layer from ArcGIS Pro to WhatsApp using the Facebook API. The recipient receives a location pin that opens in Google Maps
+* This script sends the location coordinates of a point feature layer from ArcGIS Pro/Desktop to WhatsApp using the Meta API. The recipient receives a location pin that opens in Google Maps
 <br>
 <br>
 
