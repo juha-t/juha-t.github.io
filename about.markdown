@@ -8,7 +8,7 @@ sitemap: false
 
 <div>
 
-<img height="75%" width="75%" style="border-radius:30%;" src="{{site.baseurl}}/assets/images/imgprofile.jpg">
+<img height="75%" width="75%" style="border-radius:50%;" src="{{site.baseurl}}/assets/images/imgprofile.jpg">
 
 </div>
 
