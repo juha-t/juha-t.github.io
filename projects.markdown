@@ -43,4 +43,12 @@ Here are various personal projects I've been working on; the source code can be 
 * Options to convert dataset or field names to lower case, upper case, title case; or add a prefix or suffix, or replace strings
 <br>
 <br>
-<br>
+
+#### Coordinates to Point Feature
+
+<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/coordinates-to-point.PNG">
+
+<a href="https://github.com/juha-t/coordinates-to-point-feature"><img src="https://gh-card.dev/repos/juha-t/coordinates-to-point-feature.svg"></a>
+* This tool allows one to quickly convert copied coordinates (from any supported format) into point feature layers
+* The output point feature layer is stored in memory and added to the active map
+
