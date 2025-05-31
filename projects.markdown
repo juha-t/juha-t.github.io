@@ -21,7 +21,7 @@ Here are various personal projects I've been working on. The source code can be 
 
 <br />
 
-- This script sends the location coordinates of a point feature layer from ArcGIS Pro to WhatsApp using the Meta API.  
+- A script for sending the location coordinates of a feature layer from ArcGIS Pro to WhatsApp using the Meta API.  
 - The recipient receives a location pin that opens in Google Maps.
 
 <br /><br />
