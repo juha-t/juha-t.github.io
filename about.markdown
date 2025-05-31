@@ -7,7 +7,7 @@ sitemap: false
 
 <div class='about-img'>
   <div>
-    <img style="width: 50%; height: auto; border-radius: 50%;" src="{{ site.baseurl }}/assets/images/imgprofile.jpg" alt="Profile Image">
+    <img style="width: 90%; height: auto; border-radius: 50%;" src="{{ site.baseurl }}/assets/images/imgprofile.jpg" alt="Profile Image">
   </div>
 
   <div class="about-text">
