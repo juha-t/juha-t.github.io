@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 sitemap: false
-published: true
 ---
 
 Here are various personal projects I've been working on; the source code can be viewed on my Github page: <a href="https://github.com/juha-t">https://github.com/juha-t</a>.
