@@ -67,7 +67,7 @@ Here are various personal projects I've been working on. The source code can be 
 
 <br />
 
-- This tool quickly converts copied coordinates (in supported formats) into point feature layers.  
+- This tool quickly converts copied coordinates (in any supported format) into point feature layers.  
 - The output layer is stored in memory and added directly to the active map.
 
 <br /><br />
