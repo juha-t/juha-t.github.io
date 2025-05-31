@@ -28,7 +28,3 @@ sitemap: false
 ### Kananaskis - Suitable Drop Zones for RPAS Supply Delivery
 * Areas where terrain and slope are suitable for RPAR supply drop
 <img src="{{site.baseurl}}/assets/images/drop_zones.png" height="75%" width="75%" >
-
-### Kananaskis - Wind Speed
-* Locations of weather stations in Kananaskis area
-<img src="{{site.baseurl}}/assets/images/wind_speed.png" height="75%" width="75%" >
