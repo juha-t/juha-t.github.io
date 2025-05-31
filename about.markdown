@@ -8,16 +8,15 @@ sitemap: false
 
 <div>
 
-<img height="60%" width="60%" style="border-radius:50%;" src="{{site.baseurl}}/assets/images/canada2.jpg">
+<img height="60%" width="60%" style="border-radius:50%;" src="{{site.baseurl}}/assets/images/imgprofile.jpg">
 
 </div>
 
 <div class="about-text">
 
-<p>I'm a recent graduate of GIS (bachelors) at Southern Alberta Institute of Technology.</p>
+<p>I'm a recent GIS graduate from SAIT (Calgary/2024) with a background in software development and automation using Python.</p>
 
-<p>I also have also experience in software development with Python.</p>
+<p>My experience includes working with ArcGIS, QGIS, and Python libraries such as ArcPy, OpenCV, and Selenium. I also have experience in backend development using Java and Spring Boot.</p>
 
-<p>I've worked with technologies such as ArcGIS, QGIS, Python (ArcPy, OpenCV, Selenium)</p> 
 </div>
 </div>
