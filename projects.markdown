@@ -10,6 +10,16 @@ Here are various personal projects I've been working on; the source code can be 
 <h3 style="color:#77BFC7;font-weight: bold;">Custom Geoprocessing Tools for ArcGIS Pro</h3>
 
 
+#### Send Coordinates to WhatsApp
+
+<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/whatsapp.PNG">
+
+<a href="https://github.com/juha-t/send-location-to-whatsapp"><img src="https://gh-card.dev/repos/juha-t/send-location-to-whatsapp.svg"></a>
+<br>
+* Script allows sending location coordinates of a point feature layer from ArcGIS Pro to WhatsApp via Facebook API. The recipient receives a location pin that can be viewed with Google Maps
+<br>
+<br>
+
 #### Convert 2D Polyline to 3D Polyline
 
 <img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/polyline.png">
@@ -18,29 +28,6 @@ Here are various personal projects I've been working on; the source code can be 
 <br>
 * Converts a 2d polyline to a 3d polyline based on values on a surface raster requiring only basic licence
 * Input polyline feature must have only one record
-<br>
-<br>
-
-#### Coordinates to Point Feature
-
-<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/coordinates-to-point.PNG">
-
-<a href="https://github.com/juha-t/coordinates-to-point-feature"><img src="https://gh-card.dev/repos/juha-t/coordinates-to-point-feature.svg"></a>
-<br>
-* Custom geoprocessing tool/script for a ArcGIS Pro for creating point feature layers from coordinates in DMS format, or other coordinate notation formats supported by ArcGIS Pro
-* The output point feature layer is stored in memory and added to the active map
-<br>
-<br>
-
-#### Create Random Points by Density
-
-<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/random-points-density.PNG">
-
-<a href="https://github.com/juha-t/create-random-points-density"><img src="https://gh-card.dev/repos/juha-t/create-random-points-density.svg"></a>
-<br>
-* A script for ArcGIS Pro for creating random points within a polygon feature layer based on density
-* User can specify the areal unit and number of points
-* The number of points within each polygon feature in a feature layer is calculated according to point density set by user
 <br>
 <br>
 
@@ -54,14 +41,5 @@ Here are various personal projects I've been working on; the source code can be 
 * User can specify which datasets or fields are renamed by regular expression
 * Options to convert dataset or field names to lower case, upper case, title case; or add a prefix or suffix, or replace strings
 <br>
-<br>
-
-#### Send Coordinates to WhatsApp
-
-<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/whatsapp.PNG">
-
-<a href="https://github.com/juha-t/send-location-to-whatsapp"><img src="https://gh-card.dev/repos/juha-t/send-location-to-whatsapp.svg"></a>
-<br>
-* Script allows sending location coordinates of a point feature layer from ArcGIS Pro to WhatsApp via Facebook API. The recipient receives a location pin that can be viewed with Google Maps
 <br>
 <br>
