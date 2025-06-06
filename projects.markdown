@@ -26,21 +26,6 @@ Here are various personal projects I've been working on. The source code can be 
 
 <br /><br />
 
-#### Convert 2D Polyline to 3D Polyline
-
-<img height="30%" width="30%" style="float:right; padding-left:15px;" src="{{ site.baseurl }}/assets/images/polyline.png" />
-
-<a href="https://github.com/juha-t/2d-polyline-to-3d-polyline ">
-  <img src="https://gh-card.dev/repos/juha-t/2d-polyline-to-3d-polyline .svg" />
-</a>
-
-<br />
-
-- Converts a 2D polyline to a 3D polyline based on values from a surface raster (requiring only Basic license).  
-- Input polyline feature must contain only one record.
-
-<br /><br />
-
 #### Random Points by Density
 
 <img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/random-points-density.PNG">
@@ -48,7 +33,6 @@ Here are various personal projects I've been working on. The source code can be 
 <a href="https://github.com/juha-t/random-points-density"><img src="https://gh-card.dev/repos/juha-t/random-points-density.svg"></a>
 <br>
 * Couldn't find this kind of tool in ArcGIS Pro so I had to write one to batch populate multiple polygon feature layers with random points based on density
-* User can specify the areal unit and number of points
 <br /><br />
 
 #### Batch Rename Workspace
