@@ -30,8 +30,8 @@ Here are various personal projects I've been working on. The source code can be 
 
 <img height="30%" width="30%" style="float:right; padding-left:15px;" src="{{ site.baseurl }}/assets/images/polyline.png" />
 
-<a href="https://github.com/juha-t/convert-2d-polyline-to-3d-polyline">
-  <img src="https://gh-card.dev/repos/juha-t/convert-2d-polyline-to-3d-polyline.svg" />
+<a href="https://github.com/juha-t/2d-polyline-to-3d-polyline ">
+  <img src="https://gh-card.dev/repos/juha-t/2d-polyline-to-3d-polyline .svg" />
 </a>
 
 <br />
@@ -45,7 +45,7 @@ Here are various personal projects I've been working on. The source code can be 
 
 <img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/random-points-density.PNG">
 
-<a href="https://github.com/juha-t/create-random-points-density"><img src="https://gh-card.dev/repos/juha-t/create-random-points-density.svg"></a>
+<a href="https://github.com/juha-t/random-points-density"><img src="https://gh-card.dev/repos/juha-t/random-points-density.svg"></a>
 <br>
 * Couldn't find this kind of tool in ArcGIS Pro so I had to write one to batch populate multiple polygon feature layers with random points based on density
 * User can specify the areal unit and number of points
