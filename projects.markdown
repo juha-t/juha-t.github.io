@@ -36,9 +36,20 @@ Here are various personal projects I've been working on. The source code can be 
 
 <br />
 
-- Converts a 2D polyline to a 3D polyline based on values from a surface raster (requires only Basic license).  
+- Converts a 2D polyline to a 3D polyline based on values from a surface raster (requiring only Basic license).  
 - Input polyline feature must contain only one record.
 
+<br /><br />
+
+#### Random Points by Density
+
+<img height="30%" width="30%" style="float:right;padding-left:15px" src="{{site.baseurl}}/assets/images/random-points-density.PNG">
+
+<a href="https://github.com/juha-t/create-random-points-density"><img src="https://gh-card.dev/repos/juha-t/create-random-points-density.svg"></a>
+<br>
+* Couldn't find this kind of tool in ArcGIS Pro so I had to write one to batch populate multiple polygon feature layers with random points based on density
+* User can specify the areal unit and number of points
+* 
 <br /><br />
 
 #### Batch Rename Workspace
@@ -51,7 +62,7 @@ Here are various personal projects I've been working on. The source code can be 
 
 <br />
 
-- Custom geoprocessing tool for ArcGIS Pro to rename all feature datasets, feature classes, and field names in a file geodatabase.  
+- Custom geoprocessing tool for ArcGIS Pro to batch rename all feature datasets, feature classes, and field names in a file geodatabase.  
 - User can specify targets using regular expressions.  
 - Includes options for case conversion, prefix/suffix, and string replacement.
 
