@@ -5,7 +5,7 @@ permalink: /projects/
 sitemap: false
 ---
 
-Here are various personal projects I've been working on. The source code can be viewed on my GitHub.
+Here are various projects I've been working on.
 
 <h3 style="color:#77BFC7;font-weight: bold;">Custom Geoprocessing Tools for ArcGIS Pro</h3>
 
@@ -32,7 +32,7 @@ Here are various personal projects I've been working on. The source code can be 
 
 <a href="https://github.com/juha-t/random-points-density"><img src="https://gh-card.dev/repos/juha-t/random-points-density.svg"></a>
 <br>
-* Couldn't find this kind of tool in ArcGIS Pro so I had to write one to batch populate multiple polygon feature layers with random points based on density
+* A script to batch populate multiple polygon feature layers with random points based on density
 <br /><br />
 
 #### Batch Rename Workspace
