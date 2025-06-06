@@ -49,7 +49,6 @@ Here are various personal projects I've been working on. The source code can be 
 <br>
 * Couldn't find this kind of tool in ArcGIS Pro so I had to write one to batch populate multiple polygon feature layers with random points based on density
 * User can specify the areal unit and number of points
-* 
 <br /><br />
 
 #### Batch Rename Workspace
